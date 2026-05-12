@@ -5,11 +5,12 @@ I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Co
 
 ---
 
-## 📸 Snapshot of What I Do
+## 📸 Snapshot of My Work in AWS & DevOps
 - Migrate enterprise applicaitons and services to AWS cloud while modernizing legacy infrastructure
 - Provision scalable and replicable AWS environments using Terraform, Ansible and CloudFormation
-- Build CI/CD pipelines with GitHub Actions, Jenkins, and AWS CodePipeline to accelerate deployments
 - Implement secure, highly available and fault-tolerant AWS architectures using IAM, VPC, Route 53 and ALB
+- Containerize applications and services using Docker and orchestrate scalable workloads on ECS and EKS with Kubernetes and Helm
+- Build CI/CD pipelines with GitHub Actions, Jenkins, and AWS CodePipeline to accelerate deployments
 - Optimize cloud performance, scalability, and cost efficiency using AWS monitoring and logging tools
 
 ---
