@@ -16,12 +16,12 @@ I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Co
 ---
 
 ## 💻 Core Tech Stack
-| Cloud | IaC | CI/CD | Containers | Programming & OS |
-|-------|-----|-------|------------|------------------|
+| Cloud ☁️ | IaC 🧱 | CI/CD ⚙️ | Containers 🫙 | Programming & OS 👨🏿‍💻 |
+|----------|---------|-----------|---------------|----------------------|
 | AWS | Terraform, Ansible, CloudFormation | Jenkins, GitHub Actions, CodePipeline | Docker, Kubernetes ECR, ECS, EKS | Python, JavaScript, Node.js, SQL, Bash, Linux |
 
-| Databases | Security & Networking | Monitoring & Governance |
-|-----------|-----------------------|-------------------------|
+| Databases 🗄️ | Security & Networking 🔒 | Monitoring & Governance 🔍 |
+|---------------|--------------------------|-----------------------------|
 | MySQL, PostgreSQL, DynamoDB, RDS | Subnets, Route Tables, Security Groups, Route 53, IAM, VPC, ALB | CloudWatch, CloudTrail, AWS Budgets |
 
 ---
