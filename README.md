@@ -6,7 +6,7 @@ I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Co
 ---
 
 ## 📸 What I Do 
-- Migrate enterprise applicaitons and services to AWS cloud while modernizing legacy infrastructure
+- Migrate enterprise applications and services to AWS cloud while modernizing legacy infrastructure
 - Provision scalable and replicable AWS environments using Terraform, Ansible and CloudFormation
 - Implement secure, highly available and fault-tolerant AWS architectures using IAM, VPC, Route 53 and ALB
 - Containerize applications and services using Docker and orchestrate scalable workloads on ECS and EKS with Kubernetes and Helm
