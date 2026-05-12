@@ -38,4 +38,4 @@ Coming Soon!
 
 ---
 
-I’m open to **Cloud Engineer, DevOps Engineer, and Platform Engineer roles** across all industries where I can help build secure, scalable, and automated AWS cloud solutions. Let's connect!
+I’m open to **Cloud Engineer**, **DevOps Engineer**, and **Platform Engineer** roles across all industries where I can help build secure, scalable, and automated AWS cloud solutions. Let's connect!
