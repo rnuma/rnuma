@@ -5,7 +5,7 @@ I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Co
 
 ---
 
-## 📸 Snapshot of My Work in AWS & DevOps
+## 📸 Snapshot of My Work in Cloud & DevOps
 - Migrate enterprise applicaitons and services to AWS cloud while modernizing legacy infrastructure
 - Provision scalable and replicable AWS environments using Terraform, Ansible and CloudFormation
 - Implement secure, highly available and fault-tolerant AWS architectures using IAM, VPC, Route 53 and ALB
