@@ -15,7 +15,7 @@ I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Co
 
 ---
 
-## 💻 Core Tech Stack
+## 💻 Tech Stack
 | Cloud ☁️ | IaC 🧱 | CI/CD ⚙️ | Containers 🫙 | Programming & OS 👨🏿‍💻 |
 |----------|---------|-----------|---------------|----------------------|
 | Amazon Web Services (AWS) | Terraform, Ansible, CloudFormation | Jenkins, GitHub Actions, CodePipeline | Docker, Kubernetes ECR, ECS, EKS | Python, JavaScript, Node.js, SQL, Bash, Linux |
