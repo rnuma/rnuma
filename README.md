@@ -7,10 +7,10 @@ I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Co
 
 ## 📸 What I Do 
 - Migrate enterprise applications and services to AWS cloud while modernizing legacy infrastructure
-- Provision scalable and replicable AWS environments using Terraform, Ansible and CloudFormation
+- Provision scalable and replicable AWS environments using Terraform and Ansible
 - Implement secure, highly available and fault-tolerant AWS architectures using IAM, VPC, Route 53 and ALB
 - Containerize applications and services using Docker and orchestrate scalable workloads on ECS and EKS with Kubernetes and Helm
-- Build CI/CD pipelines with GitHub Actions, Jenkins, and AWS CodePipeline to accelerate deployments
+- Build CI/CD pipelines with GitHub Actions and Jenkins to accelerate deployments
 - Optimize cloud performance, scalability, and cost efficiency using AWS monitoring and logging tools
 
 ---
@@ -18,7 +18,7 @@ I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Co
 ## 💻 Tech Stack
 | Cloud ☁️ | IaC 🧱 | CI/CD ⚙️ | Containers 🫙 | Programming & OS 👨🏿‍💻 |
 |----------|---------|-----------|---------------|----------------------|
-| Amazon Web Services (AWS) | Terraform, Ansible, CloudFormation | Jenkins, GitHub Actions, CodePipeline | Docker, Kubernetes, Helm, ECR, ECS, EKS | Python, JavaScript, Node.js, SQL, Bash, Linux |
+| Amazon Web Services (AWS) | Terraform, Ansible | Jenkins, GitHub Actions | Docker, Kubernetes, Helm, ECR, ECS, EKS | Python, JavaScript, Node.js, SQL, Bash, Linux |
 
 | Databases 🗄️ | Security & Networking 🔒 | Monitoring & Governance 🔍 |
 |---------------|--------------------------|-----------------------------|
