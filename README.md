@@ -1,6 +1,6 @@
 # 👋🏿 Welcome! I’m Roan
 
-I’m a **Cloud & DevOps Engineer** focused on building secure, automated and scalable AWS cloud infrastructure. I hold a Bachelor of Science Degree in Computer Engineering from Purdue Univeristy 🚂
+I’m an **AWS Cloud & DevOps Engineer** focused on building secure, automated and scalable AWS cloud infrastructure. I hold a Bachelor of Science Degree in Computer Engineering from Purdue Univeristy 🚂
 I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Containerization & Orchestration**, and **CI/CD automation** to design and implement cloud solutions that drive business growth.
 
 ---
