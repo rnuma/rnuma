@@ -1,7 +1,7 @@
 # 👋🏿 Welcome! I’m Roan
 
 I’m a **Cloud & DevOps Engineer** focused on building secure, scalable, and automated AWS cloud infrastructure. I hold a Bachelor of Science Degree in Computer Engineering from Purdue Univeristy 🚂
-I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Containerization & Orchestration**, and **CI/CD automation** to design and implement cloud solutions that drive business growth.
+I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Containerization & Container Orchestration**, and **CI/CD automation** to design and implement cloud solutions that drive business growth.
 
 ---
 
@@ -18,7 +18,7 @@ I leverage **Amazon Web Services (AWS)**, **Infrastructure as Code (IaC)**, **Co
 ## 💻 Tech Stack
 | Cloud ☁️ | IaC 🧱 | CI/CD ⚙️ | Containers 🫙 | Programming & OS 👨🏿‍💻 |
 |----------|---------|-----------|---------------|----------------------|
-| Amazon Web Services (AWS) | Terraform, Ansible | Jenkins, GitHub Actions | Docker, Kubernetes, Helm, ECR, ECS, EKS | Python, JavaScript, Node.js, SQL, Bash, Linux |
+| Amazon Web Services (AWS) | Terraform, Ansible, CloudFormation | Jenkins, GitHub Actions, CodePipeline | Docker, Kubernetes, Helm, ECS, EKS | Python, JavaScript, Node.js, SQL, Bash, Linux |
 
 | Databases 🗄️ | Security & Networking 🔒 | Monitoring & Governance 🔍 |
 |---------------|--------------------------|-----------------------------|
